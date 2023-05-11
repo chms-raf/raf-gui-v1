@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StartButton.qml</file>
+        <file>RAFv1.js</file>
+        <file>BackButton.qml</file>
+        <file>images/chms_logo.png</file>
+        <file>Cursor.qml</file>
+        <file>CursorBackup.qml</file>
+        <file>images/stop_sign.jpg</file>
+        <file>images/stop_sign.png</file>
+        <file>images/stop_sign_highlight.png</file>
+    </qresource>
+</RCC>
